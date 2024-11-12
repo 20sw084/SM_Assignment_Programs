@@ -1,4 +1,4 @@
-public class Main {
+public class Q9 {
     static final double LAMBDA = 1.0;
     static final double MU = 2.5;
     static final int N = 50;
